@@ -1,4 +1,4 @@
-const mediumUrl = 'https://ingegus.medium.com'; // URL de Medium
+const mediumUrl = 'https://pipimarquez.medium.com'; // URL de Medium
     const numPostsToShow = 4; // Número de posts a mostrar
 
     // Construir la URL del feed de Medium
