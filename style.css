@@ -16,7 +16,7 @@
     white-space: nowrap;
     text-overflow: ellipsis;
     margin-bottom: 10px;
-    height: 40px; /* Altura fija para el título */
+    height: 60px; /* Altura fija para el título */
     text-wrap: balance;
 }
 
