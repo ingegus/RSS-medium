@@ -17,6 +17,7 @@
     text-overflow: ellipsis;
     margin-bottom: 10px;
     height: 40px; /* Altura fija para el título */
+    text-wrap: balance;
 }
 
 .card-img-top {
