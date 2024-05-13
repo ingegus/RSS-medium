@@ -8,7 +8,7 @@ To perform the correct implementation it is only necessary to insert the bootstr
 
 Then link the rss.js file, which contains the variables for the total number of posts to publish (numPostsToShow) and the user (mediumUrl).
 <code>
-    const mediumUrl = 'https://pipimarquez.medium.com'; // URL de Medium
+    const mediumUrl = 'https://ingegus.medium.com'; // URL de Medium
     const numPostsToShow = 4; // Número de posts a mostrar
 </code>
 On the other hand, it uses the site https://rss2json.com to convert the Medium feed to a Json file in order to perform the extraction process.
