@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lector RSS para Medium</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" role="region" aria-label="Artículos destacados">
+            <ol class="carousel-indicators" id="carouselIndicators" role="tablist"></ol>
+            <div class="carousel-inner" id="rssCards" role="listbox"></div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev" aria-label="Anterior">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next" aria-label="Siguiente">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Siguiente</span>
+            </a>
+        </div>
+    </div>
+</body>
+<!--Script-->
+<script src="/rss.js"></script>
+</html>
