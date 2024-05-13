@@ -7,7 +7,7 @@ Para realizar la correcta implementación solo es encesario insertar las libreri
 
 Posteriormente enlazar el archivo rss.js, en el cual se encuentran las variables de total de post a publicar(numPostsToShow) y el usuario (mediumUrl).
 <code>
-    const mediumUrl = 'https://pipimarquez.medium.com'; // URL de Medium
+    const mediumUrl = 'https://ingegus.medium.com'; // URL de Medium
     const numPostsToShow = 4; // Número de posts a mostrar
 </code>
 
