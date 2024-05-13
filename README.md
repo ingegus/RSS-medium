@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Readme%20in-spanish-red?link=https%3A%2F%2Fgithub.com%2Fingegus%2FRSS-medium%2Fblob%2Fmain%2FREADME.es.md)
+
 # RSS-medium
 Rss reader for profiles with posts on Medium. It presents the posts through cards that are in a carousel. Uses Bootsrap, CSS and JQuery.
 
